@@ -1,0 +1,42 @@
+.row {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.img-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 30px;
+}
+
+.list-item {
+  list-style-type: none;
+}
+.deleteBtn {
+  border: none;
+  cursor: pointer;
+  background-color: #ffffff;
+  color: #000000;
+}
+.date {
+  width: 250px;
+}
+.title {
+  width: 1400px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+}
+.url {
+  margin-left: 20px;
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.btn-container {
+  text-align: end;
+  width: 100%;
+  margin-right: 80px;
+}
